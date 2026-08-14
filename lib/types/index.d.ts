@@ -1,5 +1,5 @@
 /**
- * Check for DSH harness updates and upgrade from the Web UI.
+ * Check for DSH harness updates and upgrade.
  * @module @deepseek-ai/dsh-command-check-update
  */
 import type { Context } from '@deepseek-ai/cordis';
